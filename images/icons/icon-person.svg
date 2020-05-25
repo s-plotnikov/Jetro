@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45 42" width="45" height="42">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #e8663c } 
+	</style>
+	<g id="Features">
+		<g id="Connected">
+			<path id="icon" class="shp0" d="M29.8 23.08C32.82 20.85 34.77 17.27 34.77 13.24C34.77 6.48 29.29 1.01 22.54 1.01C15.78 1.01 10.31 6.48 10.31 13.24C10.31 17.27 12.26 20.85 15.27 23.08C7.51 25.81 2 32.8 2 40.99L43.08 40.99C43.08 32.8 37.56 25.81 29.8 23.08Z" />
+		</g>
+	</g>
+</svg>

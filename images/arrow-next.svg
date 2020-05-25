@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 56" width="38" height="56">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.902;fill: #ffffff } 
+	</style>
+	<g id="Slider">
+		<path id="next" class="shp0" d="M10.63 54L36.45 28L10.63 2L1 11.56L17.32 28L1 44.44L10.63 54Z" />
+	</g>
+</svg>
